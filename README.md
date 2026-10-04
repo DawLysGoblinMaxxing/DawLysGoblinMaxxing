@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi, I'm Dawid 👋
 
-<!--
-**DawLysGoblinMaxxing/DawLysGoblinMaxxing** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm currently developing my skills in data analysis and building practical projects.
 
-Here are some ideas to get you started:
+### Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* SQL
+* Power BI
+* Excel
+* DAX
+* Power Query
+
+### Featured project
+
+📊 [PizzaAnalytics](https://github.com/DawLysGoblinMaxxing/PizzaAnalytics)
+
+Sales analysis project built with SQL Server and Power BI, including data analysis, DAX measures and an interactive dashboard.
